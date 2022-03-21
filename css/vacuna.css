@@ -1,0 +1,42 @@
+
+h1{
+    position: relative;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    margin-left: 550px; 
+    background-color: aqua;
+}
+.ext{
+    background-color: black;
+    width: 100%;
+    height: 550px;
+}
+.int{
+    background-color: blueviolet;
+    position: relative;
+    width: 50%;
+    height: 100%;
+
+}
+.int1{
+    position: relative;
+    width: 90%;
+    height: 90%;
+    text-align: center;
+    background-color: rgb(91, 211, 211);
+    margin-left: 106%;
+    margin-top: 2%;
+}
+
+.another{
+    background-color: brown;
+    width: 100%;
+    height: 500px;
+}
+
+.anotherint{
+    background-color: blue;
+    width: 50%;
+    height: 500px;
+}
